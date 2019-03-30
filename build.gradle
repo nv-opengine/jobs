@@ -8,3 +8,11 @@ group 'com.github.opengine'
 dependencies {
     compile 'com.github.opengine:resources:e5d7543'
 }
+
+repositories {
+    jcenter()
+
+    maven {
+        url "https://jitpack.io"
+    }
+}
