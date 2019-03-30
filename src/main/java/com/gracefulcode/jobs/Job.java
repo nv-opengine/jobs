@@ -1,6 +1,6 @@
 package com.gracefulcode.jobs;
 
-import com.gracefulcode.game.Resource;
+import com.github.opengine.resource.Resource;
 import java.util.HashMap;
 
 public interface Job {
