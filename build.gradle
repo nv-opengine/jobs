@@ -2,6 +2,8 @@ plugins {
 	id 'java'
 }
 
+group 'com.github.opengine'
+
 dependencies {
 	compile project(':resource-interface')
 }
